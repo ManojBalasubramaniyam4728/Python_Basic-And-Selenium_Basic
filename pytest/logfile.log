@@ -1,0 +1,7 @@
+2024-10-22 11:45:44,373 : INFO : test_logging : This is For Info
+2024-10-22 11:45:44,373 : WARNING : test_logging : This is For Warning
+2024-10-22 11:45:44,373 : ERROR : test_logging : This is For Error
+2024-10-22 11:45:44,373 : CRITICAL : test_logging : This is For Critical
+2024-10-22 12:41:42,255 : INFO : BaseClass : ['Rahul', 'Shetty', 'rahulshettyacademy.com']
+2024-10-22 12:41:42,255 : INFO : BaseClass : Shetty
+2024-10-22 12:41:42,255 : INFO : BaseClass : rahulshettyacademy.com
